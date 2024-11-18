@@ -1,0 +1,21 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {},                            //Szinten.. ugy tunik, hogy az osszes projektemben serult a .deps.json file es otletem sincs, hogy miert
+  "libraries": {},
+  "projectFileDependencyGroups": [],
+  "tools": {},
+  "project": {
+    "frameworks": {
+      ".NETCoreApp,Version=v6.0": {
+        "dependencies": {},
+        "imports": [
+          "net6.0"
+        ]
+      }
+    }
+  }
+}

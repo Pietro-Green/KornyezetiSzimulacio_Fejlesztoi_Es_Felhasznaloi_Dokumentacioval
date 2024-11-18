@@ -1,0 +1,6 @@
+4 
+Bean p 10 
+Green p 20 
+Dean p 20 
+Teen p 30 
+0

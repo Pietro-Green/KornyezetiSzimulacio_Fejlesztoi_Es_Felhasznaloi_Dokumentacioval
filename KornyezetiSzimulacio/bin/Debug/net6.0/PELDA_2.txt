@@ -1,0 +1,6 @@
+4 
+Bean t 81 
+Green t 16 
+Dean t 16 
+Teen t 39 
+40

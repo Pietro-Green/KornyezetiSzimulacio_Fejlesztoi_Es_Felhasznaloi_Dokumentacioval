@@ -1,0 +1,8 @@
+6 
+Bean p 88 
+Green p 22 
+Dean p 11 
+Teen p 33 
+Tien p 33 
+Sheen p 85 
+9

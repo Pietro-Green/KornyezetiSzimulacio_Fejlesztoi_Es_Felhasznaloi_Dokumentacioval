@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ULL1CccmbR+vSHu/stnsQ1CrtYkH537rpM0NWHc1Rmdqn0uPwDK4eaxcr36XGvghozWguOoevTV8oZPN73qNHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\MAIN\\UNIVERSITY\\ELTE-IK-SEK_BSC\\Semester_2\\ObjectOrientedProgramming\\GitHubra\\KornyezetiSzimulacio_Fejlesztoi_Es_Felhasznaloi_Dokumentacioval\\OOP_ASS_2\\OOP_ASS_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

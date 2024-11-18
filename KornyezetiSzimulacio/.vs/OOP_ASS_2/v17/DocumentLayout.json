@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\MAIN\\UNIVERSITY\\ELTE-IK-SEK_BSC\\Semester_2\\ObjectOrientedProgramming\\GitHubra\\KornyezetiSzimulacio_Fejlesztoi_Es_Felhasznaloi_Dokumentacioval\\OOP_ASS_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D72FF591-FC13-45A1-8E84-003B6A661B66}|OOP_ASS_2.csproj|C:\\Users\\PC\\Desktop\\MAIN\\UNIVERSITY\\ELTE-IK-SEK_BSC\\Semester_2\\ObjectOrientedProgramming\\GitHubra\\KornyezetiSzimulacio_Fejlesztoi_Es_Felhasznaloi_Dokumentacioval\\OOP_ASS_2\\fluid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72FF591-FC13-45A1-8E84-003B6A661B66}|OOP_ASS_2.csproj|solutionrelative:fluid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72FF591-FC13-45A1-8E84-003B6A661B66}|OOP_ASS_2.csproj|C:\\Users\\PC\\Desktop\\MAIN\\UNIVERSITY\\ELTE-IK-SEK_BSC\\Semester_2\\ObjectOrientedProgramming\\GitHubra\\KornyezetiSzimulacio_Fejlesztoi_Es_Felhasznaloi_Dokumentacioval\\OOP_ASS_2\\klasszikus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72FF591-FC13-45A1-8E84-003B6A661B66}|OOP_ASS_2.csproj|solutionrelative:klasszikus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72FF591-FC13-45A1-8E84-003B6A661B66}|OOP_ASS_2.csproj|C:\\Users\\PC\\Desktop\\MAIN\\UNIVERSITY\\ELTE-IK-SEK_BSC\\Semester_2\\ObjectOrientedProgramming\\GitHubra\\KornyezetiSzimulacio_Fejlesztoi_Es_Felhasznaloi_Dokumentacioval\\OOP_ASS_2\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72FF591-FC13-45A1-8E84-003B6A661B66}|OOP_ASS_2.csproj|solutionrelative:adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72FF591-FC13-45A1-8E84-003B6A661B66}|OOP_ASS_2.csproj|c:\\users\\pc\\desktop\\main\\university\\elte-ik-sek_bsc\\semester_2\\objectorientedprogramming\\githubra\\kornyezetiszimulacio_fejlesztoi_es_felhasznaloi_dokumentacioval\\oop_ass_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72FF591-FC13-45A1-8E84-003B6A661B66}|OOP_ASS_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72FF591-FC13-45A1-8E84-003B6A661B66}|OOP_ASS_2.csproj|C:\\Users\\PC\\Desktop\\MAIN\\UNIVERSITY\\ELTE-IK-SEK_BSC\\Semester_2\\ObjectOrientedProgramming\\GitHubra\\KornyezetiSzimulacio_Fejlesztoi_Es_Felhasznaloi_Dokumentacioval\\OOP_ASS_2\\foldterulet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72FF591-FC13-45A1-8E84-003B6A661B66}|OOP_ASS_2.csproj|solutionrelative:foldterulet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72FF591-FC13-45A1-8E84-003B6A661B66}|OOP_ASS_2.csproj|C:\\Users\\PC\\Desktop\\MAIN\\UNIVERSITY\\ELTE-IK-SEK_BSC\\Semester_2\\ObjectOrientedProgramming\\GitHubra\\KornyezetiSzimulacio_Fejlesztoi_Es_Felhasznaloi_Dokumentacioval\\OOP_ASS_2\\tesztesetek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72FF591-FC13-45A1-8E84-003B6A661B66}|OOP_ASS_2.csproj|solutionrelative:tesztesetek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\MAIN\\UNIVERSITY\\ELTE-IK-SEK_BSC\\Semester_2\\ObjectOrientedProgramming\\GitHubra\\KornyezetiSzimulacio_Fejlesztoi_Es_Felhasznaloi_Dokumentacioval\\OOP_ASS_2\\bin\\Debug\\net6.0\\OOP_ASS_2.deps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\net6.0\\OOP_ASS_2.deps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72FF591-FC13-45A1-8E84-003B6A661B66}|OOP_ASS_2.csproj|C:\\Users\\PC\\Desktop\\MAIN\\UNIVERSITY\\ELTE-IK-SEK_BSC\\Semester_2\\ObjectOrientedProgramming\\GitHubra\\KornyezetiSzimulacio_Fejlesztoi_Es_Felhasznaloi_Dokumentacioval\\OOP_ASS_2\\futas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72FF591-FC13-45A1-8E84-003B6A661B66}|OOP_ASS_2.csproj|solutionrelative:futas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MAIN\\UNIVERSITY\\ELTE-IK-SEK_BSC\\Semester_2\\ObjectOrientedProgramming\\GitHubra\\KornyezetiSzimulacio_Fejlesztoi_Es_Felhasznaloi_Dokumentacioval\\OOP_ASS_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MAIN\\UNIVERSITY\\ELTE-IK-SEK_BSC\\Semester_2\\ObjectOrientedProgramming\\GitHubra\\KornyezetiSzimulacio_Fejlesztoi_Es_Felhasznaloi_Dokumentacioval\\OOP_ASS_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T00:06:05.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Adatok.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MAIN\\UNIVERSITY\\ELTE-IK-SEK_BSC\\Semester_2\\ObjectOrientedProgramming\\GitHubra\\KornyezetiSzimulacio_Fejlesztoi_Es_Felhasznaloi_Dokumentacioval\\OOP_ASS_2\\Adatok.cs",
+              "RelativeDocumentMoniker": "Adatok.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MAIN\\UNIVERSITY\\ELTE-IK-SEK_BSC\\Semester_2\\ObjectOrientedProgramming\\GitHubra\\KornyezetiSzimulacio_Fejlesztoi_Es_Felhasznaloi_Dokumentacioval\\OOP_ASS_2\\Adatok.cs",
+              "RelativeToolTip": "Adatok.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALQAAACaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T00:06:05.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FoldTerulet.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MAIN\\UNIVERSITY\\ELTE-IK-SEK_BSC\\Semester_2\\ObjectOrientedProgramming\\GitHubra\\KornyezetiSzimulacio_Fejlesztoi_Es_Felhasznaloi_Dokumentacioval\\OOP_ASS_2\\FoldTerulet.cs",
+              "RelativeDocumentMoniker": "FoldTerulet.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MAIN\\UNIVERSITY\\ELTE-IK-SEK_BSC\\Semester_2\\ObjectOrientedProgramming\\GitHubra\\KornyezetiSzimulacio_Fejlesztoi_Es_Felhasznaloi_Dokumentacioval\\OOP_ASS_2\\FoldTerulet.cs",
+              "RelativeToolTip": "FoldTerulet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T00:06:05.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tesztesetek.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MAIN\\UNIVERSITY\\ELTE-IK-SEK_BSC\\Semester_2\\ObjectOrientedProgramming\\GitHubra\\KornyezetiSzimulacio_Fejlesztoi_Es_Felhasznaloi_Dokumentacioval\\OOP_ASS_2\\Tesztesetek.cs",
+              "RelativeDocumentMoniker": "Tesztesetek.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MAIN\\UNIVERSITY\\ELTE-IK-SEK_BSC\\Semester_2\\ObjectOrientedProgramming\\GitHubra\\KornyezetiSzimulacio_Fejlesztoi_Es_Felhasznaloi_Dokumentacioval\\OOP_ASS_2\\Tesztesetek.cs",
+              "RelativeToolTip": "Tesztesetek.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T00:06:05.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OOP_ASS_2.deps.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MAIN\\UNIVERSITY\\ELTE-IK-SEK_BSC\\Semester_2\\ObjectOrientedProgramming\\GitHubra\\KornyezetiSzimulacio_Fejlesztoi_Es_Felhasznaloi_Dokumentacioval\\OOP_ASS_2\\bin\\Debug\\net6.0\\OOP_ASS_2.deps.json",
+              "RelativeDocumentMoniker": "bin\\Debug\\net6.0\\OOP_ASS_2.deps.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MAIN\\UNIVERSITY\\ELTE-IK-SEK_BSC\\Semester_2\\ObjectOrientedProgramming\\GitHubra\\KornyezetiSzimulacio_Fejlesztoi_Es_Felhasznaloi_Dokumentacioval\\OOP_ASS_2\\bin\\Debug\\net6.0\\OOP_ASS_2.deps.json",
+              "RelativeToolTip": "bin\\Debug\\net6.0\\OOP_ASS_2.deps.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T00:06:05.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Futas.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MAIN\\UNIVERSITY\\ELTE-IK-SEK_BSC\\Semester_2\\ObjectOrientedProgramming\\GitHubra\\KornyezetiSzimulacio_Fejlesztoi_Es_Felhasznaloi_Dokumentacioval\\OOP_ASS_2\\Futas.cs",
+              "RelativeDocumentMoniker": "Futas.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MAIN\\UNIVERSITY\\ELTE-IK-SEK_BSC\\Semester_2\\ObjectOrientedProgramming\\GitHubra\\KornyezetiSzimulacio_Fejlesztoi_Es_Felhasznaloi_Dokumentacioval\\OOP_ASS_2\\Futas.cs",
+              "RelativeToolTip": "Futas.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T00:06:05.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Klasszikus.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MAIN\\UNIVERSITY\\ELTE-IK-SEK_BSC\\Semester_2\\ObjectOrientedProgramming\\GitHubra\\KornyezetiSzimulacio_Fejlesztoi_Es_Felhasznaloi_Dokumentacioval\\OOP_ASS_2\\Klasszikus.cs",
+              "RelativeDocumentMoniker": "Klasszikus.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MAIN\\UNIVERSITY\\ELTE-IK-SEK_BSC\\Semester_2\\ObjectOrientedProgramming\\GitHubra\\KornyezetiSzimulacio_Fejlesztoi_Es_Felhasznaloi_Dokumentacioval\\OOP_ASS_2\\Klasszikus.cs",
+              "RelativeToolTip": "Klasszikus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T00:06:05.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fluid.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MAIN\\UNIVERSITY\\ELTE-IK-SEK_BSC\\Semester_2\\ObjectOrientedProgramming\\GitHubra\\KornyezetiSzimulacio_Fejlesztoi_Es_Felhasznaloi_Dokumentacioval\\OOP_ASS_2\\Fluid.cs",
+              "RelativeDocumentMoniker": "Fluid.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MAIN\\UNIVERSITY\\ELTE-IK-SEK_BSC\\Semester_2\\ObjectOrientedProgramming\\GitHubra\\KornyezetiSzimulacio_Fejlesztoi_Es_Felhasznaloi_Dokumentacioval\\OOP_ASS_2\\Fluid.cs",
+              "RelativeToolTip": "Fluid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T00:06:05.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
